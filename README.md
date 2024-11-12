@@ -49,7 +49,6 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=Hugging-Face&logoColor=black)
 
 
